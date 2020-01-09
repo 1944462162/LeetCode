@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca3111f0-489d-4eff-ab5e-5282adee58a7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../107. 二叉树的层次遍历 II/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../107. 二叉树的层次遍历 II/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../100. 相同的树/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../100. 相同的树/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../191. 位1的个数/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../191. 位1的个数/191. 位1的个数.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../191. 位1的个数/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
