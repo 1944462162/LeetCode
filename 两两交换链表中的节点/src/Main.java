@@ -46,6 +46,7 @@ public class Main {
         listNode5.next = listNode6;
         Solution solution = new Solution();
         ListNode listNode = solution.swapPairs(null);
+
         while (listNode != null){
             System.out.println(listNode.val);
             listNode = listNode.next;
